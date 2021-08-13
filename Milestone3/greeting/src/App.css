@@ -1,0 +1,20 @@
+body {
+  background-color: #ff6b6b;
+  margin: 0;
+  padding: 0;
+}
+
+div {
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: -30px;
+}
+
+h1 {
+  background-color: #fdd2bf;
+  padding: 20px;
+  border-radius: 20px;
+}
