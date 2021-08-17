@@ -5,6 +5,9 @@
 ### 2. Milestone 2
 ![Screenshot (290)](https://user-images.githubusercontent.com/75210337/126627240-4b97b15e-6244-41b4-a784-90b29d57b40d.png)
 
+### 3. Milestone 3
+![Screenshot (478)](https://user-images.githubusercontent.com/75210337/129765115-3ae33e2a-3148-4da1-9894-6fd5f4ac6834.png)
+
 
 
 
