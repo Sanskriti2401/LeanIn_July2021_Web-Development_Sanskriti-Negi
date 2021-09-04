@@ -9,6 +9,7 @@
 ![Screenshot (478)](https://user-images.githubusercontent.com/75210337/129765115-3ae33e2a-3148-4da1-9894-6fd5f4ac6834.png)
 
 ### 4. Milestone 4
+(It is currently incomplete, will complete it soon)
 ![Screenshot (626)](https://user-images.githubusercontent.com/75210337/132105580-af7773f1-2123-4c2b-9a18-db4e9f1d0206.png)
 
 
